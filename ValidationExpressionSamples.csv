@@ -1,0 +1,9 @@
+ValidationExpression,Explanation
+[this|mx(10)]&&[this|r],The value must not exceed 10 characters and is required.
+"[this|mx(10)]&&[this|r]&&[this|in(B2B,B2C,OOS,W,Ch1,Ch2,Ch3,Ch4)]","The value must not exceed 10 characters, is required, and must be one of the values in the in clause."
+[this|mx(20000)]&&[this|r],The value must not be larger than 20000 and is required.
+"[this|r]&&[this|in(TRUE,FALSE)]",
+"[this|r]&&[this|in(TRUE,FALSE)]",
+"[this|r]&&[this|in(TRUE,FALSE)]",
+[this|mn(1000)],The value must not exceed 1000.
+[this|e()],"The value must be a valid email based on a regex expression, ^\w+([-+.']\w+)*@\w+([-.]\w+)*\.\w+([-.]\w+)*$"

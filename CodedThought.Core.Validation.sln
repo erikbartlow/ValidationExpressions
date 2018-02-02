@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27004.2009
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CodedThought.Core.Validation", "CodedThought.Core.Validation.csproj", "{73C91C36-4006-4BB9-81DA-6EAF37C5F574}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x86 = Debug|x86
+		Dev|Any CPU = Dev|Any CPU
+		Dev|x86 = Dev|x86
+		Release|Any CPU = Release|Any CPU
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{73C91C36-4006-4BB9-81DA-6EAF37C5F574}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{73C91C36-4006-4BB9-81DA-6EAF37C5F574}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{73C91C36-4006-4BB9-81DA-6EAF37C5F574}.Debug|x86.ActiveCfg = Debug|x86
+		{73C91C36-4006-4BB9-81DA-6EAF37C5F574}.Debug|x86.Build.0 = Debug|x86
+		{73C91C36-4006-4BB9-81DA-6EAF37C5F574}.Dev|Any CPU.ActiveCfg = Dev|Any CPU
+		{73C91C36-4006-4BB9-81DA-6EAF37C5F574}.Dev|Any CPU.Build.0 = Dev|Any CPU
+		{73C91C36-4006-4BB9-81DA-6EAF37C5F574}.Dev|x86.ActiveCfg = Dev|x86
+		{73C91C36-4006-4BB9-81DA-6EAF37C5F574}.Dev|x86.Build.0 = Dev|x86
+		{73C91C36-4006-4BB9-81DA-6EAF37C5F574}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{73C91C36-4006-4BB9-81DA-6EAF37C5F574}.Release|Any CPU.Build.0 = Release|Any CPU
+		{73C91C36-4006-4BB9-81DA-6EAF37C5F574}.Release|x86.ActiveCfg = Release|x86
+		{73C91C36-4006-4BB9-81DA-6EAF37C5F574}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C296E208-33E5-41E9-8D2D-C846D70B971A}
+	EndGlobalSection
+EndGlobal
